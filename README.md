@@ -1,2 +1,3 @@
-# personal-home-page
-Personal homepage
+# Personal Homepage
+
+Online Resume / CV
